@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author RSD
+ * @author rashid
  */
 public class Fibonacci {
     public static void main(String[] args) {
